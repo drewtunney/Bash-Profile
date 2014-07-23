@@ -355,9 +355,6 @@ fi
 ##########################################################################
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
-export AWS_ACCESS_KEY_ID='AKIAI735S2XFLYSLIWPA'
-export AWS_SECRET_ACCESS_KEY='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'
 
-export google_maps_api='AIzaSyDiJ__1GhEeIvjjEpsqVgZSNRqL7AmTpT0'
 
 
